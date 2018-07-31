@@ -44,6 +44,7 @@ def find_a(array)
 
 end
 
+#SUPER meta programming...added all numbers in array together
 def sum_array(int_array)
   int_array.reduce(:+)
 end
