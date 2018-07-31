@@ -48,3 +48,7 @@ end
 def sum_array(int_array)
   int_array.reduce(:+)
 end
+
+def add_s(array)
+
+end
