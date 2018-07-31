@@ -10,6 +10,9 @@ def sort_array_desc(int_array)
   end
 end
 
+#returns a copy of the array with the strings ordered in ascending order by length
 def sort_array_char_count(string_array)
+  string_array.sort do |a, b|
 
+  end
 end
