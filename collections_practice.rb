@@ -18,9 +18,9 @@ def sort_array_char_count(string_array)
 end
 
 #takes in an array and swaps the second and third elements
-# def swap_elements(array)
-#
-# end
+def swap_elements(array)
+  array[1], array[2] = array[2], array[1]
+end
 
 #takes in an array of integers and returns a copy of the array with the elements in reverse order
 def reverse_array(int_array)
@@ -31,5 +31,6 @@ end
 #Use the .each method to iterate and build a new array to return at the end of your method, just like we did in the "My Each" lab.
 def kesha_maker(string_array)
   string_array.each do |string|
+    
   end
 end
