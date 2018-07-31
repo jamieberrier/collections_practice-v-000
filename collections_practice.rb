@@ -17,6 +17,10 @@ def sort_array_char_count(string_array)
   end
 end
 
-def swap_elements(array0
+def swap_elements(array)
+  
+end
+
+def reverse_array()
 
 end
