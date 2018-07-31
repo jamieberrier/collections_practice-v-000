@@ -27,6 +27,8 @@ def reverse_array(int_array)
   int_array.reverse
 end
 
+#takes in an array of strings and replaces the third character in each string with a $ ("dollar sign")—Ke$ha style.
+#Use the .each method to iterate and build a new array to return at the end of your method, just like we did in the "My Each" lab.
 def kesha_maker(string_array)
 
 end
