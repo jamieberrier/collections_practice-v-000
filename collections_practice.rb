@@ -31,6 +31,6 @@ end
 #Use the .each method to iterate and build a new array to return at the end of your method, just like we did in the "My Each" lab.
 def kesha_maker(string_array)
   string_array.each do |string|
-    
+
   end
 end
