@@ -32,6 +32,6 @@ end
 def kesha_maker(string_array)
   string_array.each do |string|
     binding.pry
-    string[1]
+    string[2] = "$"
   end
 end
