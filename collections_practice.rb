@@ -50,5 +50,5 @@ def sum_array(int_array)
 end
 
 def add_s(array)
-  array.each_with_index.collect{|element, index|}
+  array.each_with_index.collect{|element, index| element << "s" unless index == 1}
 end
