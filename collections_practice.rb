@@ -10,6 +10,6 @@ def sort_array_desc(int_array)
   end
 end
 
-def sort_array_char_count(array)
-  
+def sort_array_char_count(string_array)
+
 end
