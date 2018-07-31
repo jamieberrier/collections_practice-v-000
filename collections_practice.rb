@@ -43,3 +43,7 @@ def find_a(array)
   end
 
 end
+
+def sum_array(int_array)
+  int_array.reduce(:+)
+end
