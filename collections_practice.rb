@@ -19,10 +19,10 @@ end
 
 #takes in an array and swaps the second and third elements
 # def swap_elements(array)
-# 
+#
 # end
 
 #takes in an array of integers and returns a copy of the array with the elements in reverse order
 def reverse_array(int_array)
-
+  int_array.reverse
 end
